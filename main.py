@@ -300,10 +300,3 @@ def main():
                                             pady=8,
                                             ipady=6,
                                             ipadx=10)
-
-    gameFooter()
-    root.mainloop()
-
-
-if __name__ == '__main__':
-    main()
