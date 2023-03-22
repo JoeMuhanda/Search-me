@@ -1,10 +1,4 @@
-import string
-import random
-import tkinter as tk
-from tkinter import ttk
-import yaml
-import gameUtils as gutils
-import os
+
 
 root = tk.Tk()
 root.title("Word Search Game")
