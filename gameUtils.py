@@ -37,3 +37,10 @@ def gameLevel(level: str, name: str):
     writeConfigFile(configFile)
 
     return currLevel
+
+
+# def gameScoreSet(score: int):
+#     pass
+
+
+# gameLevel('noob', 'Tasnim')
